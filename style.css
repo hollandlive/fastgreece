@@ -1,5 +1,5 @@
 /*
-Theme Name: Direo Child
+Theme Name: Fastgreece
 Template: direo
 Theme URI: https://aazztech.com/product/category/themes/wordpress/direo/
 Author: Aazztech
@@ -10,3 +10,7 @@ License: GNU General Public License v2 or later
 License URI: https://aazztech.com/product/category/themes/wordpress/direo/
 Tags: food-and-drink, blog, e-commerce, grid-layout, one-column, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, threaded-comments, theme-options, block-styles
  */
+
+ .blog-posts__single__contents h4 a {
+ 	color: red;
+ }
